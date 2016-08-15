@@ -1,0 +1,7 @@
+fieldset {
+	margin: 20px 0px 20px 0px;
+}
+
+input[type=submit] {
+	background-color: orange;
+}
